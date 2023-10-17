@@ -40,7 +40,7 @@ class _MyAppState extends State<MyApp> with WidgetsBindingObserver {
     await _banubaSdkManager.attachWidget(_epWidget.banubaId);
 
     await _banubaSdkManager.startPlayer();
-    await _banubaSdkManager.loadEffect("effects/TrollGrandma");
+    await _banubaSdkManager.loadEffect("effects/TrollGrandma");//filter here
   }
 
   @override
