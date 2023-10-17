@@ -1,3 +1,12 @@
+
+As you would know, in Android there are very few devices which supports ARCore.
+List of devices which supports ARCore url -> https://developers.google.com/ar/devices
+In this list also some devices support some features while does not support other features.
+
+Here I have used a Library which allows many AR features, which runs smoothly without your device having ARCore.
+I have added 1 screenshot in "screenshots" folder, it has a effect now named "TrollGrandma"
+More details below.
+
 [![](https://www.banuba.com/hubfs/Banuba_November2018/Images/Banuba%20SDK.png)](https://docs.banuba.com/)
 
 ## Quick start example for integrating [Banuba SDK](https://banuba.com/) into Flutter apps.  
